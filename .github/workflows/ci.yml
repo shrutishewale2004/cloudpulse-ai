@@ -1,4 +1,5 @@
-﻿name: CloudPulse AI - CI Pipeline
+﻿
+name: CloudPulse AI - CI Pipeline
 
 on:
   push:
